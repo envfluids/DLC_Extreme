@@ -16,3 +16,13 @@
 ** dumps confusion matrix, acc, recal 
 
 
+@article{chattopadhyay2020analog,
+  title={Analog forecasting of extreme-causing weather patterns using deep learning},
+  author={Chattopadhyay, Ashesh and Nabizadeh, Ebrahim and Hassanzadeh, Pedram},
+  journal={Journal of Advances in Modeling Earth Systems},
+  volume={12},
+  number={2},
+  pages={e2019MS001958},
+  year={2020},
+  publisher={Wiley Online Library}
+}
