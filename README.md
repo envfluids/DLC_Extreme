@@ -1,6 +1,6 @@
 
 
-**The implementation is heavily inspired from the open source contributions of Xifeng Guo.Thank You Guo! For keeping the spirit of open source alive!**
+**The implementation is heavily inspired from the open source contributions of Xifeng Guo.**
 
 ****This directory contains****
 1) capsnet
@@ -15,7 +15,7 @@
 3) class_transition_matrix.py
 ** dumps confusion matrix, acc, recal 
 
-
+## citation
 @article{chattopadhyay2020analog,
   title={Analog forecasting of extreme-causing weather patterns using deep learning},
   author={Chattopadhyay, Ashesh and Nabizadeh, Ebrahim and Hassanzadeh, Pedram},
